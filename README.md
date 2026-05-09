@@ -1,4 +1,5 @@
 
+
 ![Logo](images/icon.png)
 
 
@@ -21,7 +22,7 @@
 - Lightweight
 - Unity Explorer
 
-
+<img width="2766" height="911" alt="preview" src="https://github.com/user-attachments/assets/cdcbcf95-9684-42ef-85fe-a75133a9f966" />
 
 
 ## Installation
