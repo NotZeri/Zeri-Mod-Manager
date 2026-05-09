@@ -3,6 +3,7 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson)
 
 
 # Zeri Mod Manager
