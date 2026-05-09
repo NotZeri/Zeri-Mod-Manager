@@ -39,7 +39,7 @@
 
 # How To Check If Your Game Uses Mono
 
-Zeri Mod Manager only supports **Unity Mono** games.
+Zeri Mod Manager only supports **Unity Mono** games **for now**.
 
 Use the methods below to check your game type before installing.
 
@@ -50,7 +50,7 @@ Use the methods below to check your game type before installing.
 Open your game folder and navigate to:
 
 ```txt
-GAME_NAME_Data/
+GAME-NAME_Data/
 ```
 
 If you see a folder called:
@@ -139,7 +139,7 @@ IL2CPP games are NOT currently supported by Zeri Mod Manager.
 | Unity Mono | ✔ Yes |
 | Unity IL2CPP | ✘ No |
 
-
+Soon, Zeri Mod Manager will support IL2CPP games, but for now, only Mono games
 
 ## Acknowledgements
 
