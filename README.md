@@ -139,7 +139,7 @@ IL2CPP games are NOT currently supported by Zeri Mod Manager.
 | Unity Mono | ✔ Yes |
 | Unity IL2CPP | ✘ No |
 
-Soon, Zeri Mod Manager will support IL2CPP games, but for now, only Mono games
+Soon, Zeri Mod Manager will support IL2CPP games, but for now, only Mono games :(
 
 ## Acknowledgements
 
