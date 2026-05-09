@@ -8,7 +8,7 @@
 
 
 # Zeri Mod Manager
-
+![Mono Only](https://img.shields.io/badge/Mono-Only-red)
 > BepInEx installer for Unity 2022 Mono games.
 
 
