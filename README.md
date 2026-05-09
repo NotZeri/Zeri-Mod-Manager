@@ -1,2 +1,26 @@
 # Zeri-Mod-Manager
 Zeri Mod Manager is a modern installer for BepInEx designed for 2022 Unity Mono games. It provides a fast and simple setup process with built-in support for UnityExplorer, making modding, debugging, and game inspection easier for developers and players alike.
+
+# Info
+
+> BepInEx installer for Unity 2022 Mono games.
+
+## Features
+- Automatic install
+- Plugin support
+- Lightweight
+- Unity Explorer
+
+## Installation
+1. Download release
+2. Run the Manager
+3. Select game folder
+4. Press install
+
+
+## Photos
+> Might be old 
+
+![Installer Screenshot](images/Might-Be-Old-Photo.png)
+
+
