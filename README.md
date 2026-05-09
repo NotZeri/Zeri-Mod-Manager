@@ -6,7 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson) ![Unity](https://img.shields.io/badge/Unity-2022_Mono-orange) ![BepInEx](https://img.shields.io/badge/BepInEx-5.4-green)
 
-
+![Status](https://img.shields.io/badge/status-active-success)
 # Zeri Mod Manager
 ![Mono Only](https://img.shields.io/badge/Mono-Only-red)
 > BepInEx installer for Unity 2022 Mono games.
