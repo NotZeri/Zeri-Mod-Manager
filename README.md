@@ -4,7 +4,7 @@
 
 
 
-![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson) ![Unity](https://img.shields.io/badge/Unity-2022_Mono-orange)
+![Static Badge](https://img.shields.io/badge/verson-1.0.0-blue?label=verson) ![Unity](https://img.shields.io/badge/Unity-2022_Mono-orange) ![BepInEx](https://img.shields.io/badge/BepInEx-5.4-green)
 
 
 # Zeri Mod Manager
