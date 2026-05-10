@@ -12,15 +12,16 @@
 > BepInEx installer for Unity 2022 Mono games.
 
 
-> ## Known Issues
+## Known Issues
 - Unity Explorer does not open when launching the game
 - The manager does not appear in taskbar
 
 
-> ### Upcoming Update
+### Upcoming Update
+![Status](https://img.shields.io/badge/status-in%20development-orange)
 - Multi-game support with dedicated mod sections for each game
 
-> ### Possible Update
+### Possible Update
 - Mod creation tools for creating custom game mods
 
 ## Features
