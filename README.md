@@ -17,7 +17,11 @@
 - The manager does not appear in taskbar
 
 
+## Upcoming Update
+- Multi-game support with dedicated mod sections for each game
 
+# Possible Update
+- Mod creation tools for creating custom game mods
 
 ## Features
 - Automatic install
