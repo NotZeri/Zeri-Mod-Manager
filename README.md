@@ -12,6 +12,9 @@
 > BepInEx installer for Unity 2022 Mono games.
 
 
+## Known Issues
+- Unity Explorer does not open when launching the game
+- The manager does not appear in taskbar
 
 
 
