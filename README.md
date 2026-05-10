@@ -20,7 +20,7 @@
 ## Upcoming Update
 - Multi-game support with dedicated mod sections for each game
 
-# Possible Update
+### Possible Update
 - Mod creation tools for creating custom game mods
 
 ## Features
