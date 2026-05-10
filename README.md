@@ -14,12 +14,12 @@
 
 ## Known Issues
 - Unity Explorer does not open when launching the game
-- The manager does not appear in taskbar
+- The manager does not appear in the taskbar
 
 
 ### Upcoming Update
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
-- Multi-game support with dedicated mod sections for different game
+- Multi-game support with dedicated mod sections for different games
 
 ### Possible Update
 - Mod creation tools for creating custom game mods
