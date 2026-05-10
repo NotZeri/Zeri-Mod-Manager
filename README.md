@@ -17,7 +17,7 @@
 - The manager does not appear in taskbar
 
 
-## Upcoming Update
+### Upcoming Update
 - Multi-game support with dedicated mod sections for each game
 
 ### Possible Update
