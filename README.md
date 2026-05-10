@@ -40,8 +40,8 @@
 
 ## Installation
 
-1. Download release
-2. Run installer
+1. Download the release you need
+2. Run the installer
 3. Select game folder
 4. Press install
 
