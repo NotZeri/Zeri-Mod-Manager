@@ -19,7 +19,7 @@
 
 ### Upcoming Update
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
-- Multi-game support with dedicated mod sections for each game
+- Multi-game support with dedicated mod sections for different game
 
 ### Possible Update
 - Mod creation tools for creating custom game mods
